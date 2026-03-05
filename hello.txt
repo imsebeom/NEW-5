@@ -1,0 +1,2 @@
+Hello from Symphony + Claude Code!
+This file was created automatically.
